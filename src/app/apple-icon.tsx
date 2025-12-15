@@ -22,12 +22,12 @@ export default function Icon() {
                     alignItems: 'center',
                     justifyContent: 'center',
                     color: 'white',
-                    borderRadius: '36px', // Standard iOS rounding feel (rendered square, OS rounds it)
+                    borderRadius: '36px', // Standard iOS rounding feel
                     fontWeight: 800,
                     fontFamily: 'sans-serif',
                 }}
             >
-                M
+                🚀
             </div>
         ),
         {

@@ -27,7 +27,7 @@ export default function Icon() {
                     fontFamily: 'sans-serif',
                 }}
             >
-                M
+                🚀
             </div>
         ),
         {
