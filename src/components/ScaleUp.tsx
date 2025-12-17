@@ -21,11 +21,13 @@ export default function ScaleUp() {
                         {/* Content */}
                         <div className="flex-1">
                             <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
-                                Keine Sackgasse: Der Plan für deinen <span className="text-green-500">Erfolg.</span>
+                                <span className="text-green-500">Dein Proof-of-Concept steht.</span> Die ersten Kunden sind da. Und jetzt?
                             </h2>
-                            <p className="text-zinc-400 text-lg leading-relaxed">
-                                Ein MVP ist der Start, nicht das Ende. Sobald dein Proof-of-Concept steht und du die ersten 1.000 User hast, lasse ich dich nicht allein.
-                                Durch mein Netzwerk vermittle ich dich nahtlos an spezialisierte Senior-Entwickler weiter, die deine App für die Skalierung auf Enterprise-Level heben.
+                            <p className="text-zinc-400 text-lg leading-relaxed mb-4">
+                                Das ist das Ziel, auf das wir hinarbeiten. Aber was passiert, wenn dein MVP plötzlich 1.000 Nutzer hat und skalieren muss?
+                            </p>
+                            <p className="text-zinc-300 text-lg leading-relaxed font-medium">
+                                Keine Sorge. Genau an diesem Punkt aktiviere ich mein Netzwerk und vermittle dich nahtlos an spezialisierte Senior-Entwickler weiter, die aus deinem Prototypen ein Enterprise-Produkt machen.
                             </p>
                         </div>
 
