@@ -4,13 +4,13 @@ export default function ProcessTimeline() {
     const steps = [
         {
             icon: Lightbulb,
-            title: "1. Idee & Briefing",
-            description: "Statt endloser Meetings füllst du meinen strukturierten Fragenkatalog aus. So zwingen wir deine Idee in eine klare Form und sparen wertvolle Zeit."
+            title: "1. Briefing & Kostenloser Entwurf",
+            description: "Du füllst den Fragebogen aus. Daraufhin erstelle ich den visuellen Design-Entwurf deiner Startseite – völlig unverbindlich."
         },
         {
             icon: Code2,
-            title: "2. Bau des Prototypen",
-            description: "Ich setze den Turbo ein. Mit maßgeschneiderten React-Templates und AI-Tools entsteht deine Anwendung in Rekordzeit."
+            title: "2. Go & Entwicklung",
+            description: "Gefällt dir der Entwurf? Erst dann zahlst du und ich baue die Datenbank, Logins und Funktionen ein."
         },
         {
             icon: Rocket,

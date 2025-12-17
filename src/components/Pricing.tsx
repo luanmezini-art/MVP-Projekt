@@ -38,6 +38,14 @@ export default function Pricing() {
                                     <span className="text-zinc-500 font-medium self-end mb-1">/ Festpreis</span>
                                 </div>
                                 <p className="text-xs text-zinc-500 uppercase tracking-widest mt-2">Nur für kurze Zeit. Rechnung inkl. MwSt.</p>
+
+                                <div className="mt-6 flex items-start gap-3 p-4 rounded-xl bg-green-500/10 border border-green-500/20">
+                                    <div className="text-xl">🔒</div>
+                                    <p className="text-sm text-green-200">
+                                        <span className="font-bold text-green-400 block mb-1">Mein Vertrauensvorschuss:</span>
+                                        Ich erstelle den ersten Design-Entwurf kostenlos. Du zahlst erst, wenn dich das Design überzeugt.
+                                    </p>
+                                </div>
                             </div>
 
                             <div className="md:w-1/2">
